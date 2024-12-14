@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="200" height="240">
+  <!-- File Shape -->
+  <path d="M10 10 H60 L80 30 V110 H10 Z" fill="#007A73" />
+  
+  <!-- Folded Corner -->
+  <path d="M60 10 L80 30 H60 Z" fill="#ffffff" />
+
+  <!-- White Stripes for Decoration -->
+  <rect x="20" y="40" width="50" height="8" fill="#ffffff" rx="2" />
+  <rect x="20" y="55" width="50" height="8" fill="#ffffff" rx="2" />
+  <rect x="20" y="70" width="35" height="8" fill="#ffffff" rx="2" />
+</svg>
