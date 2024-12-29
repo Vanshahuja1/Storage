@@ -34,9 +34,9 @@ The platform is built with modern technologies like **React.js**, **Next.js 15**
 ### Website Screenshots  
 | Authentication Pages | Main Dashboard Pages |  
 |-----------------------|-----------------------|  
-| ![Sign-In Page](Image1.png) | ![Dashboard Page](Image4.png) |  
-| ![Sign-Up Page](Image2.png) | ![Dashboard Insights](Image5.png) |  
-| ![OTP Verification](Image3.png) |   |  
+| ![Sign-In Page](Image3.png) | ![Dashboard Page](Image1.png) |  
+| ![Sign-Up Page](Image4.png) | ![Dashboard Insights](Image2.png) |  
+| ![OTP Verification](Image5.png) |   |  
 
 
 ---  
@@ -86,7 +86,7 @@ cd storage-and-file-sharing-platform
 Install Dependencies
 
 ```bash
-Copy code
+
 npm install
 ```
 Set Up Environment Variables
@@ -94,7 +94,7 @@ Create a .env.local file in the root directory and add the following:
 
 ```bash
 env
-Copy code
+
 NEXT_PUBLIC_APPWRITE_ENDPOINT="https://cloud.appwrite.io/v1"
 NEXT_PUBLIC_APPWRITE_PROJECT="your-appwrite-project-id"
 NEXT_PUBLIC_APPWRITE_DATABASE="your-database-id"
@@ -108,7 +108,7 @@ Replace the placeholder values with your actual Appwrite credentials.
 
 Run the Development Server
 ```bash
-Copy code
+
 npm run dev
 
 ```
@@ -121,7 +121,8 @@ Here are some important code snippets:
 ### Code Screenshots  
 | Key Snippets |  
 |--------------|  
-| ![Authentication Code](code1.png) |  
-| ![File Management Code](code2.png) |  
-| ![Dashboard Code](code3.png) |  
+| <img src="code1.png" alt="Authentication Code" width="300"/> |  
+| <img src="code2.png" alt="File Management Code" width="300"/> |  
+| <img src="code3.png" alt="Dashboard Code" width="300"/> |  
+
 
