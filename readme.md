@@ -1,6 +1,8 @@
 # 🚀 Storage and File Sharing Platform  
 
-| ![OTP Verification](/public/assets/Logo.png) |
+![OTP Verification](/public/assets/Logo.png) 
+
+
 A robust **Storage and File Sharing Platform** built to manage, organize, and share files with ease. This platform includes user authentication via OTP, file upload/download, and a sleek dashboard for file management.  
 
 ---  
@@ -76,17 +78,21 @@ Ensure you have the following installed:
 ```bash  
 git clone https://github.com/your-username/storage-and-file-sharing-platform.git  
 cd storage-and-file-sharing-platform  
-
+```
 ```bash
 git clone https://github.com/your-username/storage-and-file-sharing-platform.git
 cd storage-and-file-sharing-platform
+```
 Install Dependencies
-bash
+
+```bash
 Copy code
 npm install
+```
 Set Up Environment Variables
 Create a .env.local file in the root directory and add the following:
 
+```bash
 env
 Copy code
 NEXT_PUBLIC_APPWRITE_ENDPOINT="https://cloud.appwrite.io/v1"
@@ -96,12 +102,17 @@ NEXT_PUBLIC_APPWRITE_USERS_COLLECTION="your-users-collection-id"
 NEXT_PUBLIC_APPWRITE_FILES_COLLECTION="your-files-collection-id"
 NEXT_PUBLIC_APPWRITE_BUCKET="your-storage-bucket-id"
 NEXT_APPWRITE_KEY="your-appwrite-api-key"
+
+```
 Replace the placeholder values with your actual Appwrite credentials.
 
 Run the Development Server
-bash
+```bash
 Copy code
 npm run dev
+
+```
+
 Open http://localhost:3000 in your browser to see the application.
 
 🕸️ Code Snippets
