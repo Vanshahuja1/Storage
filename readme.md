@@ -41,10 +41,10 @@ The platform is built with modern technologies like **React.js**, **Next.js 15**
 
  | Main Dashboard Pages |
 
-![Dashboard Page](Image1.png)
+![Dashboard Page](Main.png)
 ![Dashboard Insights](Image2.png)
-![Dashboard Insights](Screenshot 2025-01-01 153849.png)
-![Dashboard Insights](Screenshot 2025-01-01 154043.png)
+![Dashboard Insights](Pricing.png)
+
 
 
 ---  
