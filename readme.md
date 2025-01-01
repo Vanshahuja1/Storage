@@ -131,6 +131,6 @@ Here are some important code snippets:
 |--------------|  
 | <img src="code1.png" alt="Authentication Code" height = "300 " width="500"/> |  
 | <img src="code2.png" alt="File Management Code" height = "350 " width="300"/> |  
-| <img src="code3.png" alt="Dashboard Code"  height = "600 " width="300"/> |  
+| <img src="code3.png" alt="Dashboard Code" /> |  
 
 
