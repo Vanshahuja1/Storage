@@ -32,11 +32,19 @@ The platform is built with modern technologies like **React.js**, **Next.js 15**
 ## 📸 Screenshots  
 
 ### Website Screenshots  
-| Authentication Pages | Main Dashboard Pages |  
-|-----------------------|-----------------------|  
-| ![Sign-In Page](Image3.png) | ![Dashboard Page](Image1.png) |  
-| ![Sign-Up Page](Image4.png) | ![Dashboard Insights](Image2.png) |  
-| ![OTP Verification](Image5.png) |   |  
+| Authentication Pages  
+  
+| ![Sign-In Page](Image3.png) 
+| ![Dashboard Page](Image1.png) |  
+| ![Sign-Up Page](Image4.png) |  |  
+| ![OTP Verification](Image5.png) | 
+
+ | Main Dashboard Pages |
+
+![Dashboard Page](Image1.png)
+![Dashboard Insights](Image2.png)
+![Dashboard Insights](Screenshot 2025-01-01 153849.png)
+![Dashboard Insights](Screenshot 2025-01-01 154043.png)
 
 
 ---  
